@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTB5WBC/r+xHfMnczm3GtfwLjXMH6Zb2TXQMIW1G0yhMwAL8notkFeU60N6CrnsrUIyedy+ec6h0w+njVW/uJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hyth\\Desktop\\study\\distibuted-programming\\lw1\\lw1_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyth\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyth\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\hyth\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\hyth\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
