@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJQnmUV0UsYaRYYmx/lhEMNkh62WZUrprDQPm6b+x29Xt8VQGzWIkjgebbrHWqET1rRmyobj/9O2Lg0ABSAp8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hyth\\Desktop\\study\\distibuted-programming\\lw3\\Valuator\\lw1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyth\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hyth\\.nuget\\packages\\nats.client\\1.1.5\\nats.client.1.1.5.nupkg.sha512",
+    "C:\\Users\\hyth\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\hyth\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\hyth\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
