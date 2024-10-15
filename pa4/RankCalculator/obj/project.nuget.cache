@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ixQc09jjdjf7gr5EFwIcINESlw75THM6GgdLzjCsIHjCM2Y7iU3CDU/LeZNfCmZRTsTr5u6PDhYjR1twJB3Rfg==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\university\\distributed_programming\\RankCalculator\\RankCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\funny\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\funny\\.nuget\\packages\\nats.client\\1.1.4\\nats.client.1.1.4.nupkg.sha512",
+    "C:\\Users\\funny\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\funny\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
+    "C:\\Users\\funny\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
